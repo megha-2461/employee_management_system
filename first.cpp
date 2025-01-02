@@ -171,10 +171,10 @@ int main(){
     cout<<"\n\t\tYour id is creating, please wait";
 
 
-    /*for(int i=0; i<6; i++){
+    for(int i=0; i<6; i++){
         cout<<".";
         usleep(1000000);
-    }*/
+    }
     cout<<"\n\t\tYour id created successfully"<<endl;
     system("clear");
     start:
